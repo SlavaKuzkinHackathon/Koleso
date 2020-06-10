@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Koleso", "Koleso.vbproj", "{F9020546-EC51-4A6B-BBE4-FF9129C0653B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9020546-EC51-4A6B-BBE4-FF9129C0653B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9020546-EC51-4A6B-BBE4-FF9129C0653B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9020546-EC51-4A6B-BBE4-FF9129C0653B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9020546-EC51-4A6B-BBE4-FF9129C0653B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2D84CF-5C05-4E8A-A177-1A34976F5B19}
+	EndGlobalSection
+EndGlobal
